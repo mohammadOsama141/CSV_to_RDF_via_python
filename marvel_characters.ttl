@@ -1,0 +1,861 @@
+@prefix ns1: <http://www.marvelcharacters.com/ontology#> .
+
+<http://www.marvelcharacters.com/characters/Abomination> a ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/None> ;
+    ns1:hasAlias "Abomination" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/The_Incredible_Hulk_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Emil_Blonsky" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "74" ;
+    ns1:hasYearOfBirth "1971" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/The_Incredible_Hulk_(2008)> .
+
+<http://www.marvelcharacters.com/characters/Black_Widow> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "Black_Widow" ;
+    ns1:hasAppearedIn "8.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_2> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Endgame> ;
+    ns1:hasName "Natasha_Romanoff" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "57" ;
+    ns1:hasYearOfBirth "1984" ;
+    ns1:hasYearOfDeath "2023" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Endgame>,
+        <http://www.marvel_characters.com/movies/Iron_Man_2> .
+
+<http://www.marvelcharacters.com/characters/Captain_America> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "Captain_America" ;
+    ns1:hasAppearedIn "11.0",
+        "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Endgame>,
+        <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Samuel_Thomas_Wilson",
+        "Steve_Rogers" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Flight_suit>,
+        <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Human",
+        "Not_available" ;
+    ns1:hasWeight "59",
+        "63" ;
+    ns1:hasYearOfBirth "1918",
+        "1978" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Endgame>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Collector> a ns1:AntiHero,
+        ns1:Character ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Tivan_Group> ;
+    ns1:hasAlias "Collector" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Taneleer_Tivan" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "67" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Commander_Hill> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Nick_Fury's_Crew> ;
+    ns1:hasAlias "Commander_Hill" ;
+    ns1:hasAppearedIn "7.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/The_Avengers> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Maria_Hill" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "67" ;
+    ns1:hasYearOfBirth "1982" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/The_Avengers> .
+
+<http://www.marvelcharacters.com/characters/Drax_the_Destroyer> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> ;
+    ns1:hasAlias "Drax_the_Destroyer" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Drax" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Enhanced_physical_abillities> ;
+    ns1:hasRace "Kylosian" ;
+    ns1:hasWeight "62" ;
+    ns1:hasYearOfBirth "1973" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Gamora> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> ;
+    ns1:hasAlias "Gamora" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Infinity_War> ;
+    ns1:hasName "Gamora_Zen_Whoberi_Ben_Titan" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Enhanced_physical_abillities> ;
+    ns1:hasRace "Zehoberei" ;
+    ns1:hasWeight "75" ;
+    ns1:hasYearOfBirth "1983" ;
+    ns1:hasYearOfDeath "2018" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Infinity_War>,
+        <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> .
+
+<http://www.marvelcharacters.com/characters/Gatekeeper> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Asgard> ;
+    ns1:hasAlias "Gatekeeper" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Infinity_War> ;
+    ns1:hasName "Heimdall" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Asgardian" ;
+    ns1:hasWeight "67" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2018" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Infinity_War>,
+        <http://www.marvel_characters.com/movies/Thor> .
+
+<http://www.marvelcharacters.com/characters/God_of_Thunder> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> ;
+    ns1:hasAlias "God_of_Thunder" ;
+    ns1:hasAppearedIn "8.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Thor_Odinson" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Thunder> ;
+    ns1:hasRace "Asgardian" ;
+    ns1:hasWeight "62" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/Thor> .
+
+<http://www.marvelcharacters.com/characters/Happy> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Stark_Industries> ;
+    ns1:hasAlias "Happy" ;
+    ns1:hasAppearedIn "6.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Harold_Joseph_Hogan" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "67" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Iron_Man_(2008)>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Hawkeye> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "Hawkeye" ;
+    ns1:hasAppearedIn "6.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Clinton_Francis_Barton" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Archery> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "73" ;
+    ns1:hasYearOfBirth "1975" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/Thor> .
+
+<http://www.marvelcharacters.com/characters/Howard_Stark> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Stark_Industries> ;
+    ns1:hasAlias "Howard_Stark" ;
+    ns1:hasAppearedIn "3.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Howard_Anthony_Walter_Stark" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Highly_Intelligence> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "78" ;
+    ns1:hasYearOfBirth "1917" ;
+    ns1:hasYearOfDeath "1991" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Hulk> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "Hulk" ;
+    ns1:hasAppearedIn "5.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/The_Incredible_Hulk_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Robert_Bruce_Banner" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "55" ;
+    ns1:hasYearOfBirth "1969" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/The_Incredible_Hulk_(2008)> .
+
+<http://www.marvelcharacters.com/characters/Iron_Man> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers_> ;
+    ns1:hasAlias "Iron_Man" ;
+    ns1:hasAppearedIn "9.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Endgame> ;
+    ns1:hasName "Tony_Stark" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Iron_Suit> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "78" ;
+    ns1:hasYearOfBirth "1970" ;
+    ns1:hasYearOfDeath "2023" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Endgame>,
+        <http://www.marvel_characters.com/movies/Iron_Man_(2008)> .
+
+<http://www.marvelcharacters.com/characters/Iron_Monger> a ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/None> ;
+    ns1:hasAlias "Iron_Monger" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Obadiah_Stane" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Iron_Suit> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "75" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Iron_Man_(2008)>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/King_of_Jotunheim> a ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/None> ;
+    ns1:hasAlias "King_of_Jotunheim" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasName "Laufey" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Frost Giant" ;
+    ns1:hasWeight "59" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2010" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Thor> .
+
+<http://www.marvelcharacters.com/characters/Kurse> a ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Dark_Elves> ;
+    ns1:hasAlias "Kurse" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> ;
+    ns1:hasName "Algrim" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Enhanced_physical_abillities> ;
+    ns1:hasRace "Dark Elf" ;
+    ns1:hasWeight "55" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2013" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> .
+
+<http://www.marvelcharacters.com/characters/Lady_Sif> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Asgard> ;
+    ns1:hasAlias "Lady_Sif" ;
+    ns1:hasAppearedIn "3.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Sif" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Asgardian" ;
+    ns1:hasWeight "62" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/Thor> .
+
+<http://www.marvelcharacters.com/characters/Loki> a ns1:AntiHero,
+        ns1:Character ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/None> ;
+    ns1:hasAlias "Loki" ;
+    ns1:hasAppearedIn "5.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Fluid> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Infinity_War> ;
+    ns1:hasName "Loki_Laufeyson" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Magician> ;
+    ns1:hasRace "Frost Giant" ;
+    ns1:hasWeight "53" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2018" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Infinity_War>,
+        <http://www.marvel_characters.com/movies/Thor> .
+
+<http://www.marvelcharacters.com/characters/Mandarin> a ns1:AntiHero,
+        ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/A.I.M>,
+        <http://www.marvel_characters.com/organizations/None> ;
+    ns1:hasAlias "Mandarin" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_3> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Iron_Man_3>,
+        <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Aldrich_Killian",
+        "Trevor_Slattery" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None>,
+        <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "72",
+        "75" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0",
+        "2012" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Iron_Man_3>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Mighty_Thor> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/None> ;
+    ns1:hasAlias "Mighty_Thor" ;
+    ns1:hasAppearedIn "2.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Thor:_Love_and_Thunder> ;
+    ns1:hasName "Jane_Foster" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "75" ;
+    ns1:hasYearOfBirth "1992" ;
+    ns1:hasYearOfDeath "2024" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Thor>,
+        <http://www.marvel_characters.com/movies/Thor:_Love_and_Thunder> .
+
+<http://www.marvelcharacters.com/characters/Nick_Fury> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/S.H.I.E.L.D> ;
+    ns1:hasAlias "Nick_Fury" ;
+    ns1:hasAppearedIn "8.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Nicholas_Joseph_Fury" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "64" ;
+    ns1:hasYearOfBirth "1950" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Iron_Man_(2008)>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/None> a ns1:AntiHero,
+        ns1:Character,
+        ns1:Superhero,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/A.I.M>,
+        <http://www.marvel_characters.com/organizations/Avengers>,
+        <http://www.marvel_characters.com/organizations/Dark_Elves>,
+        <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/organizations/HYDRA>,
+        <http://www.marvel_characters.com/organizations/Nova_Corps>,
+        <http://www.marvel_characters.com/organizations/Warriors_Three> ;
+    ns1:hasAlias "None" ;
+    ns1:hasAppearedIn "1.0",
+        "2.0",
+        "3.0",
+        "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Avengers:_Age_of_Ultron>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Iron_Man_3>,
+        <http://www.marvel_characters.com/movies/Thor>,
+        <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female>,
+        <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5",
+        "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Infinity_War>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier>,
+        <http://www.marvel_characters.com/movies/Iron_Man_3>,
+        <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/Thor:_Ragnarok>,
+        <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> ;
+    ns1:hasName "Arnim_Zola",
+        "Baby_Groot",
+        "Ellen_Brandt",
+        "Eric_Savin",
+        "Groot",
+        "Hogun",
+        "Irani_Rael",
+        "Malekith",
+        "Nebula",
+        "Vision",
+        "Volstagg" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Enhanced_physical_abillities>,
+        <http://http://www.marvel_characters.com/powers/Highly_Intelligence>,
+        <http://http://www.marvel_characters.com/powers/Mind_Stone>,
+        <http://http://www.marvel_characters.com/powers/None>,
+        <http://http://www.marvel_characters.com/powers/Psychokinesis>,
+        <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "AI",
+        "Asgardian",
+        "Dark Elf",
+        "Flora colossus",
+        "Human",
+        "Luphomoid",
+        "Synthezoid",
+        "Xandarian" ;
+    ns1:hasWeight "55",
+        "56",
+        "57",
+        "61",
+        "67",
+        "74",
+        "77",
+        "79" ;
+    ns1:hasYearOfBirth "0",
+        "1930",
+        "1992",
+        "2014",
+        "2015" ;
+    ns1:hasYearOfDeath "0",
+        "2012",
+        "2013",
+        "2014",
+        "2017",
+        "2018" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Age_of_Ultron>,
+        <http://www.marvel_characters.com/movies/Avengers:_Infinity_War>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier>,
+        <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Iron_Man_3>,
+        <http://www.marvel_characters.com/movies/Pending>,
+        <http://www.marvel_characters.com/movies/Thor>,
+        <http://www.marvel_characters.com/movies/Thor:_Ragnarok>,
+        <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> .
+
+<http://www.marvelcharacters.com/characters/Odin> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Asgard> ;
+    ns1:hasAlias "Odin" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Thor:_Ragnarok> ;
+    ns1:hasName "Odin_Borson" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Asgardian" ;
+    ns1:hasWeight "78" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2017" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Thor>,
+        <http://www.marvel_characters.com/movies/Thor:_Ragnarok> .
+
+<http://www.marvelcharacters.com/characters/Peggy_Carter> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/S.H.I.E.L.D> ;
+    ns1:hasAlias "Peggy_Carter" ;
+    ns1:hasAppearedIn "2.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Captain_America:_Civil_War> ;
+    ns1:hasName "Margaret_Elizabeth_Carter" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "79" ;
+    ns1:hasYearOfBirth "1921" ;
+    ns1:hasYearOfDeath "2016" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_America:_Civil_War>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger> .
+
+<http://www.marvelcharacters.com/characters/Phil_Coulson> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/S.H.I.E.L.D> ;
+    ns1:hasAlias "Phil_Coulson" ;
+    ns1:hasAppearedIn "3.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Captain_Marvel> ;
+    ns1:hasName "Phillip_J._Coulson" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "67" ;
+    ns1:hasYearOfBirth "1964" ;
+    ns1:hasYearOfDeath "2018" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_Marvel>,
+        <http://www.marvel_characters.com/movies/Iron_Man_(2008)> .
+
+<http://www.marvelcharacters.com/characters/Quicksilver> a ns1:AntiHero,
+        ns1:Character ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "Quicksilver" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Avengers:_Age_of_Ultron> ;
+    ns1:hasName "Pietro_Maximoff" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Super_speed> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "53" ;
+    ns1:hasYearOfBirth "1989" ;
+    ns1:hasYearOfDeath "2015" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Avengers:_Age_of_Ultron>,
+        <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier> .
+
+<http://www.marvelcharacters.com/characters/Red_Skull> a ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/HYDRA> ;
+    ns1:hasAlias "Red_Skull" ;
+    ns1:hasAppearedIn "2.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Johann_Schmidt" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "77" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Rocket_> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> ;
+    ns1:hasAlias "Rocket_" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Rocket_Raccoon" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Gadgets> ;
+    ns1:hasRace "Halfworlder" ;
+    ns1:hasWeight "57" ;
+    ns1:hasYearOfBirth "1976" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Ronan_the_Accuser> a ns1:AntiHero,
+        ns1:Character ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Kree_Imperial> ;
+    ns1:hasAlias "Ronan_the_Accuser" ;
+    ns1:hasAppearedIn "2.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Captain_Marvel> ;
+    ns1:hasName "Ronan" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Universal_Weapon> ;
+    ns1:hasRace "Kree" ;
+    ns1:hasWeight "54" ;
+    ns1:hasYearOfBirth "1967" ;
+    ns1:hasYearOfDeath "2014" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_Marvel>,
+        <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> .
+
+<http://www.marvelcharacters.com/characters/Scarlet_Witch> a ns1:AntiHero,
+        ns1:Character ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "Scarlet_Witch" ;
+    ns1:hasAppearedIn "3.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "5" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Wanda_Maximoff" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/energy_manipulation> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "77" ;
+    ns1:hasYearOfBirth "1989" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Star-Lord> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> ;
+    ns1:hasAlias "Star-Lord" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "Peter_Jason_Quill" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Gadgets> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "53" ;
+    ns1:hasYearOfBirth "1976" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/War_Machine> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Avengers> ;
+    ns1:hasAlias "War_Machine" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_(2008)> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "James_Rupert_Rhodes" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Iron_Suit> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "73" ;
+    ns1:hasYearOfBirth "1968" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Iron_Man_(2008)>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Whiplash> a ns1:Character,
+        ns1:Villain ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Hammer_Industries> ;
+    ns1:hasAlias "Whiplash" ;
+    ns1:hasAppearedIn "1.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Iron_Man_2> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Iron_Man_2> ;
+    ns1:hasName "Ivan_Antonovich_Vanko_" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Energy_Whips> ;
+    ns1:hasRace "Not_available" ;
+    ns1:hasWeight "64" ;
+    ns1:hasYearOfBirth "1968" ;
+    ns1:hasYearOfDeath "2010" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Iron_Man_2> .
+
+<http://www.marvelcharacters.com/characters/Winter_Soldier> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Thunderbolts> ;
+    ns1:hasAlias "Winter_Soldier" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Pending> ;
+    ns1:hasName "James_Buchanan_Barnes" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/superhuman> ;
+    ns1:hasRace "Human" ;
+    ns1:hasWeight "66" ;
+    ns1:hasYearOfBirth "1917" ;
+    ns1:hasYearOfDeath "0" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger>,
+        <http://www.marvel_characters.com/movies/Pending> .
+
+<http://www.marvelcharacters.com/characters/Witch> a ns1:Character,
+        ns1:Superhero ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Asgard> ;
+    ns1:hasAlias "Witch" ;
+    ns1:hasAppearedIn "2.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Thor> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Female> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> ;
+    ns1:hasName "Frigga" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/None> ;
+    ns1:hasRace "Asgardian" ;
+    ns1:hasWeight "58" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2013" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Thor>,
+        <http://www.marvel_characters.com/movies/Thor:_The_Dark_World> .
+
+<http://www.marvelcharacters.com/characters/Yondu_> a ns1:AntiHero,
+        ns1:Character ;
+    ns1:belongsToOrganization <http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> ;
+    ns1:hasAlias "Yondu_" ;
+    ns1:hasAppearedIn "4.0" ;
+    ns1:hasFirstAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> ;
+    ns1:hasGender <http://http://www.marvel_characters.com/genders/Male> ;
+    ns1:hasHeight "6" ;
+    ns1:hasLastAppearance <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy_Vol._2> ;
+    ns1:hasName "Yondu_Udonta" ;
+    ns1:hasPower <http://http://www.marvel_characters.com/powers/Gadgets> ;
+    ns1:hasRace "Centaurian" ;
+    ns1:hasWeight "67" ;
+    ns1:hasYearOfBirth "0" ;
+    ns1:hasYearOfDeath "2014" ;
+    ns1:partOf <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy>,
+        <http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy_Vol._2> .
+
+<http://http://www.marvel_characters.com/genders/Fluid> a ns1:Gender .
+
+<http://http://www.marvel_characters.com/powers/Archery> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Energy_Whips> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Flight_suit> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Magician> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Mind_Stone> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Psychokinesis> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Super_speed> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Thunder> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Universal_Weapon> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/energy_manipulation> a ns1:Power .
+
+<http://www.marvel_characters.com/organizations/Avengers_> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Hammer_Industries> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Kree_Imperial> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Nick_Fury's_Crew> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Nova_Corps> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Thunderbolts> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Tivan_Group> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Warriors_Three> a ns1:Organization .
+
+<http://http://www.marvel_characters.com/powers/Highly_Intelligence> a ns1:Power .
+
+<http://www.marvel_characters.com/movies/Captain_America:_Civil_War> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy_Vol._2> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/The_Avengers> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Thor:_Love_and_Thunder> a ns1:Movie .
+
+<http://www.marvel_characters.com/organizations/A.I.M> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Dark_Elves> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/HYDRA> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Stark_Industries> a ns1:Organization .
+
+<http://http://www.marvel_characters.com/powers/Gadgets> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/Iron_Suit> a ns1:Power .
+
+<http://www.marvel_characters.com/organizations/S.H.I.E.L.D> a ns1:Organization .
+
+<http://http://www.marvel_characters.com/powers/Enhanced_physical_abillities> a ns1:Power .
+
+<http://www.marvel_characters.com/movies/Avengers:_Age_of_Ultron> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Captain_Marvel> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/The_Incredible_Hulk_(2008)> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Thor:_Ragnarok> a ns1:Movie .
+
+<http://www.marvel_characters.com/organizations/Asgard> a ns1:Organization .
+
+<http://www.marvel_characters.com/movies/Iron_Man_2> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Avengers:_Endgame> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Iron_Man_3> a ns1:Movie .
+
+<http://www.marvel_characters.com/organizations/None> a ns1:Organization .
+
+<http://www.marvel_characters.com/organizations/Guardians_of_the_Galaxy> a ns1:Organization .
+
+<http://www.marvel_characters.com/movies/Avengers:_Infinity_War> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Captain_America:_The_Winter_Soldier> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Thor:_The_Dark_World> a ns1:Movie .
+
+<http://www.marvel_characters.com/organizations/Avengers> a ns1:Organization .
+
+<http://http://www.marvel_characters.com/genders/Female> a ns1:Gender .
+
+<http://http://www.marvel_characters.com/powers/None> a ns1:Power .
+
+<http://http://www.marvel_characters.com/powers/superhuman> a ns1:Power .
+
+<http://www.marvel_characters.com/movies/Captain_America:_The_First_Avenger> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Iron_Man_(2008)> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Guardians_of_the_Galaxy> a ns1:Movie .
+
+<http://www.marvel_characters.com/movies/Thor> a ns1:Movie .
+
+<http://http://www.marvel_characters.com/genders/Male> a ns1:Gender .
+
+<http://www.marvel_characters.com/movies/Pending> a ns1:Movie .
+

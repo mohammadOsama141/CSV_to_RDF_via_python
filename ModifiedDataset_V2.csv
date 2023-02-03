@@ -1,0 +1,50 @@
+,Alias,Superhero,FirstAppearance,LastAppearance,Alignment,Weight,Height,Race,OrganizationName,Year_of_birth,Year_of_death,Appeared_In_count,Gender,Power
+0,Iron_Man,Tony_Stark,Iron_Man_(2008),Avengers:_Endgame,Good,78,6,Human,Avengers_,1970,2023,9.0,Male,Iron_Suit
+1,Iron_Monger,Obadiah_Stane,Iron_Man_(2008),Pending,Evil,75,6,Not_available,None,0,0,1.0,Male,Iron_Suit
+2,Hulk,Robert_Bruce_Banner,The_Incredible_Hulk_(2008),Pending,Good,55,5,Human,Avengers,1969,0,5.0,Male,superhuman
+3,Abomination,Emil_Blonsky,The_Incredible_Hulk_(2008),Pending,Evil,74,5,Not_available,None,1971,0,1.0,Male,superhuman
+4,War_Machine,James_Rupert_Rhodes,Iron_Man_(2008),Pending,Good,73,6,Not_available,Avengers,1968,0,4.0,Male,Iron_Suit
+5,Black_Widow,Natasha_Romanoff,Iron_Man_2,Avengers:_Endgame,Good,57,6,Not_available,Avengers,1984,2023,8.0,Female,None
+6,Whiplash,Ivan_Antonovich_Vanko_,Iron_Man_2,Iron_Man_2,Evil,64,6,Not_available,Hammer_Industries,1968,2010,1.0,Male,Energy_Whips
+7,Nick_Fury,Nicholas_Joseph_Fury,Iron_Man_(2008),Pending,Good,64,6,Not_available,S.H.I.E.L.D,1950,0,8.0,Male,None
+8,God_of_Thunder,Thor_Odinson,Thor,Pending,Good,62,5,Asgardian,Guardians_of_the_Galaxy,0,0,8.0,Male,Thunder
+9,Loki,Loki_Laufeyson,Thor,Avengers:_Infinity_War,Neutral,53,5,Frost Giant,None,0,2018,5.0,Fluid,Magician
+10,King_of_Jotunheim,Laufey,Thor,Thor,Evil,59,6,Frost Giant,None,0,2010,1.0,Male,superhuman
+11,None,Volstagg,Thor,Thor:_Ragnarok,Good,67,5,Asgardian,Warriors_Three,0,2017,2.0,Male,superhuman
+12,Gatekeeper,Heimdall,Thor,Avengers:_Infinity_War,Good,67,5,Asgardian,Asgard,0,2018,4.0,Male,superhuman
+13,Witch,Frigga,Thor,Thor:_The_Dark_World,Good,58,6,Asgardian,Asgard,0,2013,2.0,Female,None
+14,Odin,Odin_Borson,Thor,Thor:_Ragnarok,Good,78,6,Asgardian,Asgard,0,2017,4.0,Male,superhuman
+15,Captain_America,Steve_Rogers,Captain_America:_The_First_Avenger,Avengers:_Endgame,Good,59,6,Not_available,Avengers,1918,0,11.0,Male,superhuman
+16,Red_Skull,Johann_Schmidt,Captain_America:_The_First_Avenger,Pending,Evil,77,5,Human,HYDRA,0,0,2.0,Male,None
+17,Peggy_Carter,Margaret_Elizabeth_Carter,Captain_America:_The_First_Avenger,Captain_America:_Civil_War,Good,79,6,Human,S.H.I.E.L.D,1921,2016,2.0,Female,None
+18,Winter_Soldier,James_Buchanan_Barnes,Captain_America:_The_First_Avenger,Pending,Good,66,6,Human,Thunderbolts,1917,0,4.0,Male,superhuman
+19,Howard_Stark,Howard_Anthony_Walter_Stark,Captain_America:_The_First_Avenger,Pending,Good,78,5,Human,Stark_Industries,1917,1991,3.0,Male,Highly_Intelligence
+20,Hawkeye,Clinton_Francis_Barton,Thor,Pending,Good,73,5,Human,Avengers,1975,0,6.0,Male,Archery
+21,Phil_Coulson,Phillip_J._Coulson,Iron_Man_(2008),Captain_Marvel,Good,67,5,Human,S.H.I.E.L.D,1964,2018,3.0,Male,None
+22,Commander_Hill,Maria_Hill,The_Avengers,Pending,Good,67,5,Human,Nick_Fury's_Crew,1982,0,7.0,Female,None
+23,Mandarin,Aldrich_Killian,Iron_Man_3,Iron_Man_3,Evil,72,5,Human,A.I.M,0,2012,1.0,Male,superhuman
+24,None,Ellen_Brandt,Iron_Man_3,Iron_Man_3,Evil,79,6,Human,A.I.M,0,2012,1.0,Female,superhuman
+25,None,Eric_Savin,Iron_Man_3,Iron_Man_3,Evil,57,5,Human,A.I.M,0,2012,1.0,Male,superhuman
+26,Happy,Harold_Joseph_Hogan,Iron_Man_(2008),Pending,Good,67,6,Human,Stark_Industries,0,0,6.0,Male,None
+27,Mandarin,Trevor_Slattery,Iron_Man_3,Pending,Neutral,75,5,Human,None,0,0,1.0,Male,None
+28,Mighty_Thor,Jane_Foster,Thor,Thor:_Love_and_Thunder,Good,75,6,Human,None,1992,2024,2.0,Female,superhuman
+29,None,Malekith,Thor:_The_Dark_World,Thor:_The_Dark_World,Evil,56,6,Dark Elf,Dark_Elves,0,2013,1.0,Male,Enhanced_physical_abillities
+30,Kurse,Algrim,Thor:_The_Dark_World,Thor:_The_Dark_World,Evil,55,5,Dark Elf,Dark_Elves,0,2013,1.0,Male,Enhanced_physical_abillities
+31,Lady_Sif,Sif,Thor,Pending,Good,62,6,Asgardian,Asgard,0,0,3.0,Female,superhuman
+32,None,Hogun,Thor,Thor:_Ragnarok,Good,67,5,Asgardian,Warriors_Three,0,2017,2.0,Male,superhuman
+33,Captain_America,Samuel_Thomas_Wilson,Captain_America:_The_Winter_Soldier,Pending,Good,63,6,Human,Avengers,1978,0,4.0,Male,Flight_suit
+34,None,Arnim_Zola,Captain_America:_The_First_Avenger,Captain_America:_The_Winter_Soldier,Evil,67,5,AI,HYDRA,1930,2014,2.0,Male,Highly_Intelligence
+35,Star-Lord,Peter_Jason_Quill,Guardians_of_the_Galaxy,Pending,Good,53,6,Human,Guardians_of_the_Galaxy,1976,0,4.0,Male,Gadgets
+36,Gamora,Gamora_Zen_Whoberi_Ben_Titan,Guardians_of_the_Galaxy,Avengers:_Infinity_War,Good,75,5,Zehoberei,Guardians_of_the_Galaxy,1983,2018,4.0,Female,Enhanced_physical_abillities
+37,Drax_the_Destroyer,Drax,Guardians_of_the_Galaxy,Pending,Good,62,5,Kylosian,Guardians_of_the_Galaxy,1973,0,4.0,Male,Enhanced_physical_abillities
+38,None,Groot,Guardians_of_the_Galaxy,Pending,Good,61,6,Flora colossus,Guardians_of_the_Galaxy,0,2014,4.0,Male,Psychokinesis
+39,None,Baby_Groot,Guardians_of_the_Galaxy,Pending,Good,55,6,Flora colossus,Guardians_of_the_Galaxy,2014,0,3.0,Male,Psychokinesis
+40,Rocket_,Rocket_Raccoon,Guardians_of_the_Galaxy,Pending,Good,57,6,Halfworlder,Guardians_of_the_Galaxy,1976,0,1.0,Male,Gadgets
+41,Ronan_the_Accuser,Ronan,Guardians_of_the_Galaxy,Captain_Marvel,Neutral,54,6,Kree,Kree_Imperial,1967,2014,2.0,Male,Universal_Weapon
+42,Yondu_,Yondu_Udonta,Guardians_of_the_Galaxy,Guardians_of_the_Galaxy_Vol._2,Neutral,67,6,Centaurian,Guardians_of_the_Galaxy,0,2014,4.0,Male,Gadgets
+43,None,Nebula,Guardians_of_the_Galaxy,Pending,Good,77,5,Luphomoid,Guardians_of_the_Galaxy,1992,0,4.0,Female,Enhanced_physical_abillities
+44,None,Irani_Rael,Guardians_of_the_Galaxy,Pending,Good,74,5,Xandarian,Nova_Corps,0,0,1.0,Female,None
+45,Collector,Taneleer_Tivan,Guardians_of_the_Galaxy,Pending,Neutral,67,5,Not_available,Tivan_Group,0,0,1.0,Male,None
+46,Quicksilver,Pietro_Maximoff,Captain_America:_The_Winter_Soldier,Avengers:_Age_of_Ultron,Neutral,53,5,Human,Avengers,1989,2015,1.0,Male,Super_speed
+47,Scarlet_Witch,Wanda_Maximoff,Captain_America:_The_Winter_Soldier,Pending,Neutral,77,5,Human,Avengers,1989,0,3.0,Female,energy_manipulation
+48,None,Vision,Avengers:_Age_of_Ultron,Avengers:_Infinity_War,Neutral,55,6,Synthezoid,Avengers,2015,2018,2.0,Male,Mind_Stone
